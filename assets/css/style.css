@@ -1,0 +1,40 @@
+/* header */
+.bg-violet {
+    background-color: rgb(88, 74, 207);
+}
+
+/* main */
+a.ancor:hover {
+    background-color: lightgrey;
+    padding: 2;
+}
+
+.col.jhome {
+    margin-top: -40px;
+}
+
+.col.jkaryawan {
+    margin-top: -50px;
+}
+
+.form-control:-ms-input-placeholder, .form-control::-webkit-input-placeholder, .form-control::-moz-placeholder {
+    color: rgb(245, 245, 245) !important;
+}
+
+.bg-main {
+    background-color: #276678;
+}
+
+.bg-sec {
+    background-color: #1687a7;
+}
+
+.bg-thrd {
+    background-color: #d3e0ea;
+}
+
+/* footer */
+footer {
+    margin-top: 100px;
+    color: rgb(165, 165, 165);
+}
